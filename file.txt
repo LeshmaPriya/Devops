@@ -1,3 +1,0 @@
-Welcome to Devops Lab
-This is the First Folder
-Devops local repo
